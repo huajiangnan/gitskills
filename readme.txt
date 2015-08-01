@@ -5,4 +5,4 @@ Git tracks changes of .
 My stupid boss still prefers SVN
 wo shi zhaoyan
 wo shi duhaiming
-wo & ni
+wo and ni
