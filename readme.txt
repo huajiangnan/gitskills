@@ -6,3 +6,4 @@ My stupid boss still prefers SVN
 wo shi zhaoyan
 wo shi duhaiming
 wo and ni
+ta
