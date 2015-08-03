@@ -8,3 +8,4 @@ wo shi duhaiming
 wo and ni
 ta
 i am duhaiming
+i am stupid
