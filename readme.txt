@@ -9,3 +9,4 @@ wo and ni
 ta
 i am duhaiming
 i am stupid
+you are stupid
